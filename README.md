@@ -86,7 +86,7 @@
 ## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rhuan-miguel-9b383a248/" target="_blank">
+  <a href="https://www.linkedin.com/in/rhuan-dos-santos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rhuan%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
